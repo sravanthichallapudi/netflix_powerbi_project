@@ -1,1 +1,1 @@
-# netflix_powerbi_project
+# Descriptions of the project
